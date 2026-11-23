@@ -25,7 +25,7 @@ The project uses 3,196 chess positions and 35 categorical input features to pred
 
 ## Video Presentation
 
-[Watch the 5-minute project presentation](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch the 5-minute project presentation](https://youtu.be/nzVKuG77dK8)
 
 ## Dataset
 
